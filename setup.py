@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="pyusacycling",
-    version="0.1.3",
+    version="0.1.4",
     author="PyUSACycling Team",
     author_email="author@example.com",
     description="A package for parsing USA Cycling event results",
